@@ -1,0 +1,8 @@
+<root>
+    <item name='java.util.Optional'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+    <item name='java.util.Optional java.util.Optional&lt;T&gt; empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
